@@ -1,0 +1,211 @@
+Country,League,Season,Date,Time,Home,Away,HG,AG 
+Brazil,Serie B,2018,13/04/18,23:15,Fortaleza,Guarani,2,1 
+Brazil,Serie B,2018,13/04/18,00:30,Oeste,CRB,2,0
+Brazil,Serie B,2018,13/04/18,00:30,Atlético-GO,Criciúma,3,2 
+Brazil,Serie B,2018,13/04/18,01:30,Figueirense,Juventude,2,1 
+Brazil,Serie B,2018,14/04/18,20:30,Brasil de Pelotas,São Bento,1,1 
+Brazil,Serie B,2018,14/04/18,20:30,Vila Nova,Avaí,1,0 
+Brazil,Serie B,2018,14/04/18,20:30,CSA,Goiás,2,1 
+Brazil,Serie B,2018,14/04/18,20:30,Londrina,Boa Esporte,1,0 
+Brazil,Serie B,2018,14/04/18,23:00,Sampaio Corrêa,Coritiba,2,0 
+Brazil,Serie B,2018,15/04/18,01:00,Ponte Preta,Paysandu,0,1 
+Brazil,Serie B,2018,17/04/18,23:15,Boa Esporte,Fortaleza,0,2 
+Brazil,Serie B,2018,18/04/18,01:30,Coritiba,Atlético-GO,1,0 
+Brazil,Serie B,2018,20/04/18,23:15,Juventude,Oeste,1,1 
+Brazil,Serie B,2018,21/04/18,00:30,São Bento,CSA,2,1 
+Brazil,Serie B,2018,21/04/18,01:30,Paysandu,Londrina,1,0 
+Brazil,Serie B,2018,21/04/18,20:30,Guarani,Sampaio Corrêa,2,0 
+Brazil,Serie B,2018,21/04/18,20:30,Avaí,Brasil de Pelotas,2,2 
+Brazil,Serie B,2018,21/04/18,20:30,Goiás,Figueirense,0,2 
+Brazil,Serie B,2018,21/04/18,20:30,CRB,Vila Nova,0,1
+Brazil,Serie B,2018,21/04/18,23:00,Criciúma,Ponte Preta,0,1 
+Brazil,Serie B,2018,24/04/18,23:15,Atlético-GO,Guarani,3,2 
+Brazil,Serie B,2018,25/04/18,01:30,Fortaleza,CRB,3,1 
+Brazil,Serie B,2018,27/04/18,23:15,Figueirense,Boa Esporte,2,0 
+Brazil,Serie B,2018,28/04/18,00:30,CSA,Oeste,5,1 
+Brazil,Serie B,2018,28/04/18,01:30,Coritiba,Criciúma,2,1 
+Brazil,Serie B,2018,28/04/18,20:30,Juventude,Avaí,1,3 
+Brazil,Serie B,2018,28/04/18,20:30,Vila Nova,Sampaio Corrêa,3,1 
+Brazil,Serie B,2018,28/04/18,20:30,Paysandu,Brasil de Pelotas,2,1 
+Brazil,Serie B,2018,28/04/18,23:00,Ponte Preta,Londrina,0,1 
+Brazil,Serie B,2018,29/04/18,01:00,São Bento,Goiás,1,1 
+Brazil,Serie B,2018,01/05/18,20:00,Criciúma,CSA,1,3 
+Brazil,Serie B,2018,01/05/18,20:00,Boa Esporte,Juventude,1,2 
+Brazil,Serie B,2018,01/05/18,20:30,Brasil de Pelotas,Figueirense,1,0 
+Brazil,Serie B,2018,01/05/18,20:30,Londrina,Fortaleza,1,1 
+Brazil,Serie B,2018,04/05/18,23:15,Sampaio Corrêa,Paysandu,1,1 
+Brazil,Serie B,2018,05/05/18,00:30,CRB,Atlético-GO,3,1 
+Brazil,Serie B,2018,05/05/18,01:30,Oeste,Coritiba,1,1 
+Brazil,Serie B,2018,05/05/18,20:30,Avaí,São Bento,1,1 
+Brazil,Serie B,2018,05/05/18,20:30,Goiás,Vila Nova,1,3 
+Brazil,Serie B,2018,05/05/18,23:00,Guarani,Ponte Preta,2,3 
+Brazil,Serie B,2018,08/05/18,00:30,Sampaio Corrêa,CRB,2,3 
+Brazil,Serie B,2018,08/05/18,23:15,Guarani,Criciúma,1,0 
+Brazil,Serie B,2018,09/05/18,01:30,Coritiba,Brasil de Pelotas,1,0 
+Brazil,Serie B,2018,11/05/18,23:15,Juventude,Paysandu,1,1 
+Brazil,Serie B,2018,12/05/18,01:30,Atlético-GO,Londrina,0,0 
+Brazil,Serie B,2018,12/05/18,20:30,São Bento,Oeste,1,0 
+Brazil,Serie B,2018,12/05/18,20:30,Figueirense,Avaí,0,1 
+Brazil,Serie B,2018,12/05/18,20:30,CSA,Boa Esporte,1,0 
+Brazil,Serie B,2018,12/05/18,23:00,Fortaleza,Goiás,3,0 
+Brazil,Serie B,2018,13/05/18,20:00,Vila Nova,Ponte Preta,0,0 
+Brazil,Serie B,2018,15/05/18,23:15,CRB,Avaí,0,4 
+Brazil,Serie B,2018,16/05/18,01:30,Criciúma,Juventude,0,0 
+Brazil,Serie B,2018,18/05/18,23:15,Goiás,Guarani,1,1 
+Brazil,Serie B,2018,19/05/18,01:30,Figueirense,Fortaleza,1,3 
+Brazil,Serie B,2018,19/05/18,20:30,Ponte Preta,Atlético-GO,1,3 
+Brazil,Serie B,2018,19/05/18,20:30,Oeste,Vila Nova,2,0 
+Brazil,Serie B,2018,19/05/18,20:30,Londrina,CSA,1,2 
+Brazil,Serie B,2018,19/05/18,20:30,Paysandu,São Bento,1,1 
+Brazil,Serie B,2018,19/05/18,23:00,Boa Esporte,Coritiba,1,1 
+Brazil,Serie B,2018,20/05/18,01:00,Brasil de Pelotas,Sampaio Corrêa,1,2 
+Brazil,Serie B,2018,22/05/18,23:15,CSA,Figueirense,1,4 
+Brazil,Serie B,2018,23/05/18,01:30,Fortaleza,Criciúma,2,0 
+Brazil,Serie B,2018,25/05/18,23:15,Avaí,Paysandu,2,1 
+Brazil,Serie B,2018,25/05/18,23:15,Atlético-GO,Oeste,2,2 
+Brazil,Serie B,2018,26/05/18,01:30,Coritiba,Vila Nova,2,0 
+Brazil,Serie B,2018,26/05/18,20:30,São Bento,Juventude,2,2
+Brazil,Serie B,2018,26/05/18,20:30,Brasil de Pelotas,Londrina,3,0 
+Brazil,Serie B,2018,26/05/18,20:30,Goiás,Boa Esporte,1,2
+Brazil,Serie B,2018,27/05/18,01:00,Guarani,CRB,2,0
+Brazil,Serie B,2018,29/05/18,00:00,Sampaio Corrêa,Ponte Preta,1,0
+Brazil,Serie B,2018,29/05/18,23:15,São Bento,Figueirense,1,1 
+Brazil,Serie B,2018,30/05/18,01:30,Londrina,Coritiba,3,2 
+Brazil,Serie B,2018,01/06/18,23:15,Juventude,Guarani,1,0
+Brazil,Serie B,2018,02/06/18,00:30,Vila Nova,CSA,0,1 
+Brazil,Serie B,2018,02/06/18,01:30,Avaí,Criciúma,0,1 
+Brazil,Serie B,2018,02/06/18,01:30,Paysandu,Boa Esporte,2,0 
+Brazil,Serie B,2018,02/06/18,20:30,Fortaleza,Sampaio Corrêa,1,0 
+Brazil,Serie B,2018,02/06/18,20:30,Atlético-GO,Goiás,1,3
+Brazil,Serie B,2018,02/06/18,20:30,CRB,Brasil de Pelotas,1,1 
+Brazil,Serie B,2018,02/06/18,23:00,Ponte Preta,Oeste,1,1
+Brazil,Serie B,2018,05/06/18,23:15,Juventude,Atlético-GO,2,2 
+Brazil,Serie B,2018,05/06/18,23:15,Figueirense,Londrina,1,1 
+Brazil,Serie B,2018,05/06/18,23:15,Criciúma,Paysandu,4,1 
+Brazil,Serie B,2018,05/06/18,23:15,Coritiba,CRB,1,0 
+Brazil,Serie B,2018,06/06/18,00:30,Boa Esporte,São Bento,2,2
+Brazil,Serie B,2018,06/06/18,00:30,CSA,Guarani,1,2
+Brazil,Serie B,2018,06/06/18,00:30,Sampaio Corrêa,Avaí,1,1 
+Brazil,Serie B,2018,06/06/18,01:30,Ponte Preta,Goiás,2,1
+Brazil,Serie B,2018,06/06/18,01:30,Oeste,Brasil de Pelotas,0,0
+Brazil,Serie B,2018,06/06/18,01:30,Vila Nova,Fortaleza,0,0
+Brazil,Serie B,2018,08/06/18,23:15,Londrina,Juventude,0,1 
+Brazil,Serie B,2018,09/06/18,00:30,Goiás,Paysandu,2,1 
+Brazil,Serie B,2018,09/06/18,01:30,Avaí,Coritiba,2,0 
+Brazil,Serie B,2018,09/06/18,20:30,Guarani,Vila Nova,1,1 
+Brazil,Serie B,2018,09/06/18,20:30,São Bento,Fortaleza,2,1
+Brazil,Serie B,2018,09/06/18,20:30,Criciúma,Boa Esporte,1,1
+Brazil,Serie B,2018,09/06/18,20:30,CSA,CRB,0,0 
+Brazil,Serie B,2018,09/06/18,20:30,Sampaio Corrêa,Oeste,2,0
+Brazil,Serie B,2018,09/06/18,23:00,Atlético-GO,Figueirense,3,4
+Brazil,Serie B,2018,10/06/18,01:00,Brasil de Pelotas,Ponte Preta,0,2
+Brazil,Serie B,2018,11/06/18,22:00,Juventude,Coritiba,1,1 
+Brazil,Serie B,2018,12/06/18,22:00,Londrina,Goiás,1,3
+Brazil,Serie B,2018,13/06/18,00:30,Figueirense,Sampaio Corrêa,1,0 
+Brazil,Serie B,2018,15/06/18,01:00,Guarani,São Bento,0,0 
+Brazil,Serie B,2018,15/06/18,23:15,Fortaleza,Brasil de Pelotas,2,0
+Brazil,Serie B,2018,16/06/18,00:30,Boa Esporte,Avaí,0,2
+Brazil,Serie B,2018,16/06/18,01:30,CRB,Ponte Preta,2,0 
+Brazil,Serie B,2018,16/06/18,22:30,Vila Nova,Atlético-GO,0,0
+Brazil,Serie B,2018,16/06/18,23:00,Oeste,Criciúma,2,2
+Brazil,Serie B,2018,17/06/18,01:00,Paysandu,CSA,0,0
+Brazil,Serie B,2018,19/06/18,23:15,Ponte Preta,CSA,1,1 
+Brazil,Serie B,2018,20/06/18,01:30,Avaí,Guarani,3,3
+Brazil,Serie B,2018,21/06/18,23:15,Brasil de Pelotas,Criciúma,1,0 
+Brazil,Serie B,2018,22/06/18,01:30,Goiás,Juventude,1,1 
+Brazil,Serie B,2018,23/06/18,22:30,Coritiba,Figueirense,1,1
+Brazil,Serie B,2018,23/06/18,23:00,São Bento,Londrina,0,1
+Brazil,Serie B,2018,23/06/18,23:00,Fortaleza,Oeste,1,2 
+Brazil,Serie B,2018,23/06/18,23:00,Boa Esporte,Vila Nova,0,2
+Brazil,Serie B,2018,23/06/18,23:00,Sampaio Corrêa,Atlético-GO,2,3
+Brazil,Serie B,2018,24/06/18,01:00,CRB,Paysandu,1,1
+Brazil,Serie B,2018,26/06/18,23:15,Juventude,Vila Nova,0,1 
+Brazil,Serie B,2018,27/06/18,00:30,Oeste,Avaí,1,0
+Brazil,Serie B,2018,27/06/18,01:30,Goiás,CRB,2,1
+Brazil,Serie B,2018,29/06/18,22:00,CSA,Coritiba,2,2 
+Brazil,Serie B,2018,29/06/18,23:15,Atlético-GO,Brasil de Pelotas,2,1
+Brazil,Serie B,2018,30/06/18,01:30,Guarani,Boa Esporte,1,1
+Brazil,Serie B,2018,30/06/18,22:00,Figueirense,Ponte Preta,0,2 
+Brazil,Serie B,2018,30/06/18,22:00,Criciúma,São Bento,1,0
+Brazil,Serie B,2018,01/07/18,00:30,Paysandu,Fortaleza,0,1
+Brazil,Serie B,2018,01/07/18,22:00,Londrina,Sampaio Corrêa,1,1
+Brazil,Serie B,2018,04/07/18,22:00,Coritiba,Paysandu,2,0
+Brazil,Serie B,2018,05/07/18,00:30,Avaí,Goiás,0,1
+Brazil,Serie B,2018,05/07/18,00:30,Atlético-GO,Boa Esporte,2,0
+Brazil,Serie B,2018,05/07/18,00:30,CRB,São Bento,1,0
+Brazil,Serie B,2018,05/07/18,22:00,Oeste,Guarani,0,1
+Brazil,Serie B,2018,06/07/18,00:30,Brasil de Pelotas,CSA,0,2
+Brazil,Serie B,2018,06/07/18,00:30,Vila Nova,Londrina,1,1
+Brazil,Serie B,2018,06/07/18,01:00,Criciúma,Figueirense,1,1
+Brazil,Serie B,2018,08/07/18,22:00,Ponte Preta,Fortaleza,2,0
+Brazil,Serie B,2018,18/07/18,00:30,Sampaio Corrêa,Juventude,0,0
+Brazil,Serie B,2018,09/07/18,22:00,Guarani,Coritiba,2,1
+Brazil,Serie B,2018,10/07/18,00:30,Figueirense,Oeste,1,2
+Brazil,Serie B,2018,12/07/18,22:00,Londrina,Avaí,1,2
+Brazil,Serie B,2018,13/07/18,00:30,Paysandu,Vila Nova,1,2
+Brazil,Serie B,2018,13/07/18,22:00,Brasil de Pelotas,Juventude,1,1
+Brazil,Serie B,2018,14/07/18,00:30,Goiás,Criciúma,2,1
+Brazil,Serie B,2018,14/07/18,00:30,Boa Esporte,CRB,0,1
+Brazil,Serie B,2018,14/07/18,01:30,CSA,Sampaio Corrêa,1,0
+Brazil,Serie B,2018,14/07/18,20:00,Fortaleza,Atlético-GO,0,1
+Brazil,Serie B,2018,14/07/18,22:00,São Bento,Ponte Preta,0,2
+Brazil,Serie B,2018,17/07/18,23:15,Avaí,Atlético-GO,0,0
+Brazil,Serie B,2018,18/07/18,00:30,Vila Nova,Brasil de Pelotas,0,0
+Brazil,Serie B,2018,18/07/18,01:30,Guarani,Figueirense,2,3
+Brazil,Serie B,2018,20/07/18,23:15,Criciúma,Londrina,2,1
+Brazil,Serie B,2018,21/07/18,00:30,Sampaio Corrêa,Goiás,1,3
+Brazil,Serie B,2018,21/07/18,01:30,CSA,Fortaleza,0,0
+Brazil,Serie B,2018,21/07/18,20:30,Juventude,CRB,1,0
+Brazil,Serie B,2018,21/07/18,20:30,Coritiba,São Bento,2,2
+Brazil,Serie B,2018,21/07/18,23:00,Oeste,Paysandu,2,2
+Brazil,Serie B,2018,21/07/18,23:00,Boa Esporte,Ponte Preta,2,1
+Brazil,Serie B,2018,24/07/18,00:00,Atlético-GO,CSA,2,2
+Brazil,Serie B,2018,24/07/18,23:15,Brasil de Pelotas,Boa Esporte,2,0
+Brazil,Serie B,2018,24/07/18,23:15,Figueirense,Vila Nova,2,1
+Brazil,Serie B,2018,24/07/18,23:15,Goiás,Coritiba,0,1
+Brazil,Serie B,2018,24/07/18,23:15,Londrina,Oeste,3,0
+Brazil,Serie B,2018,25/07/18,00:30,Ponte Preta,Juventude,0,1
+Brazil,Serie B,2018,25/07/18,00:30,CRB,Criciúma,0,0
+Brazil,Serie B,2018,25/07/18,00:30,Paysandu,Guarani,1,0
+Brazil,Serie B,2018,25/07/18,01:30,São Bento,Sampaio Corrêa,2,1
+Brazil,Serie B,2018,25/07/18,01:30,Fortaleza,Avaí,1,1
+Brazil,Serie B,2018,27/07/18,23:15,Avaí,CSA,0,0
+Brazil,Serie B,2018,28/07/18,01:30,Paysandu,Figueirense,2,0
+Brazil,Serie B,2018,28/07/18,20:30,Guarani,Brasil de Pelotas,2,1
+Brazil,Serie B,2018,28/07/18,20:30,São Bento,Atlético-GO,2,1
+Brazil,Serie B,2018,28/07/18,20:30,Juventude,Fortaleza,0,3
+Brazil,Serie B,2018,28/07/18,20:30,Goiás,Oeste,1,0
+Brazil,Serie B,2018,28/07/18,20:30,CRB,Londrina,1,1
+Brazil,Serie B,2018,28/07/18,23:00,Criciúma,Vila Nova,1,0
+Brazil,Serie B,2018,28/07/18,23:00,Coritiba,Ponte Preta,0,0
+Brazil,Serie B,2018,29/07/18,01:00,Boa Esporte,Sampaio Corrêa,3,1
+Brazil,Serie B,2018,31/07/18,23:15,Figueirense,CRB,0,0
+Brazil,Serie B,2018,01/08/18,01:30,Atlético-GO,Paysandu,1,0
+Brazil,Serie B,2018,03/08/18,23:15,Londrina,Guarani,1,2
+Brazil,Serie B,2018,04/08/18,01:30,Oeste,Boa Esporte,1,1
+Brazil,Serie B,2018,04/08/18,20:30,CSA,Juventude,1,0
+Brazil,Serie B,2018,04/08/18,20:30,Brasil de Pelotas,Goiás,1,0
+Brazil,Serie B,2018,04/08/18,20:30,Fortaleza,Coritiba,2,1
+Brazil,Serie B,2018,04/08/18,00:30,Vila Nova,São Bento,1,0
+Brazil,Serie B,2018,04/08/18,23:00,Ponte Preta,Avaí,2,2
+Brazil,Serie B,2018,05/08/18,01:00,Sampaio Corrêa,Criciúma,0,1
+Brazil,Serie B,2018,07/08/18,23:15,Avaí,Vila Nova,1,0
+Brazil,Serie B,2018,08/08/18,01:30,Paysandu,Ponte Preta,0,4
+Brazil,Serie B,2018,10/08/18,23:15,Goiás,CSA,3,0
+Brazil,Serie B,2018,11/08/18,00:30,Boa Esporte,Londrina,1,0
+Brazil,Serie B,2018,11/08/18,01:30,Coritiba,Sampaio Corrêa,0,0
+Brazil,Serie B,2018,11/08/18,20:30,Guarani,Fortaleza,2,3
+Brazil,Serie B,2018,11/08/18,20:30,São Bento,Brasil de Pelotas,1,1
+Brazil,Serie B,2018,11/08/18,20:30,Criciúma,Atlético-GO,1,1
+Brazil,Serie B,2018,11/08/18,20:30,CRB,Oeste,0,1
+Brazil,Serie B,2018,11/08/18,23:00,Juventude,Figueirense,0,0
+Brazil,Serie B,2018,14/08/18,23:15,Brasil de Pelotas,Avaí,1,1
+Brazil,Serie B,2018,15/08/18,01:30,Ponte Preta,Criciúma,3,1
+Brazil,Serie B,2018,17/08/18,23:15,Londrina,Paysandu,2,1
+Brazil,Serie B,2018,18/08/18,00:30,Vila Nova,CRB,0,0
+Brazil,Serie B,2018,18/08/18,01:30,Figueirense,Goiás,1,2
+Brazil,Serie B,2018,18/08/18,20:30,Oeste,Juventude,0,0
+Brazil,Serie B,2018,18/08/18,20:30,Fortaleza,Boa Esporte,2,1
+Brazil,Serie B,2018,18/08/18,20:30,Atlético-GO,Coritiba,1,0
+Brazil,Serie B,2018,18/08/18,23:00,Sampaio Corrêa,Guarani,0,2
+Brazil,Serie B,2018,19/08/18,01:00,CSA,São Bento,1,0
