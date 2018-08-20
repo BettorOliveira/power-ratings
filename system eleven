@@ -1,0 +1,60 @@
+# League: Brazil Serie B
+
+setwd("C:/...")
+
+data = read.csv('brasileirinho.csv')
+data = data[,-c(1:5)]
+dados = as.matrix(data[,-c(1:2)])
+n = dim(dados)[1]
+rownames(data)=seq(1:n)
+rownames(dados)=seq(1:n)
+head(data)
+head(dados)
+teams = c("Fortaleza", "CSA", "Figueirense",	"Avaí", "Vila Nova",	"Atlético-GO",	"Coritiba",	"Ponte Preta",	"Goiás",
+"Juventude",	"Guarani",	"Oeste",	"Paysandu",	"São Bento",	"Londrina",	"CRB",	"Brasil de Pelotas",
+"Criciúma",	"Sampaio Corrêa",	"Boa Esporte")
+teams = sort(teams)
+M = matrix(10, 20, 1)
+
+adj = 0.05
+
+for (i in 1:n){
+  for (j in 1:20) {
+    for (k in 1:20) {
+      if (data[i,1] == teams[j] & data[i,2] == teams[k]) {
+        dif = dados[i,1] - dados[i,2]
+        rat = dif*adj
+        M[j,1] = M[j,1] + rat
+        M[k,1] = M[k,1] - rat
+        dr = M[j,1] - M[k,1] 
+        fac = (dif - (dr + 2*adj)) * adj
+        M[j,1] = M[j,1] + fac
+        M[k,1] = M[k,1] - fac
+      }
+    }
+  }
+}
+
+M = round(M,2)
+ratings = cbind(teams,M)
+ratings = as.data.frame(ratings)
+colnames(ratings)=c("Clube", "Rating")
+ratings
+
+# predicting matches
+
+match = c(teams[7], teams[1])  # any team from 1 to 20
+match
+result = "stay out"
+for (j in 1:20) {
+  for (k in 1:20) {
+    if (ratings[j,1] == match[1] & ratings[k,1] == match[2]) {
+      prev = (M[j,1] - M[k,1]) + 2*adj
+    }
+  }
+}
+if (prev >= 1) {result = match[1]}
+if (prev < -1) {result = match[2]}
+if ((prev < 0.1) & (prev > -0.1)) {result = "draw"}
+result
+prev
